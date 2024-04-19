@@ -1,0 +1,23 @@
+<footer>
+    <div class="DEV">
+      <p>
+        Desenvolved by: Kauã.Hermer
+      </p>
+    </div>
+  </footer>
+
+
+/* DESENVOLVIDO POR KAUÃ.HERMER */
+footer .DEV{
+  background-color: #afafaf8e;
+  display: block;
+  padding: 0;
+  margin: 0;
+}
+
+footer .DEV p{
+  color: #000000;
+  font-size: 12px;
+  text-align: center;
+  margin-top: 20px;
+}
